@@ -35,9 +35,7 @@ class MohamedFawzy {
 }
 ```
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&margin-w=15" alt="Trophy" />
-</div>
+
 
 ---
 
@@ -46,13 +44,13 @@ class MohamedFawzy {
 <div align="center">
 
 ### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,swift" alt="Mobile Skills" />
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Skills" />
 
 ### 🎨 Design & Frontend
 <img src="https://skillicons.dev/icons?i=figma,xd,css,html" alt="Design Skills" />
 
 ### 🔧 Backend & Database
-<img src="https://skillicons.dev/icons?i=firebase,sqlite,nodejs,mongodb" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite" alt="Backend Skills" />
 
 ### ⚙️ Tools & Platform
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" alt="Tools" />
@@ -179,51 +177,62 @@ flowchart LR
     D --> E[🚀 Deployment]
     E --> F[🛠️ Maintenance]
     
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#fce4ec
-    style F fill:#f1f8e9
+    style A fill:#1a1a2e,stroke:#16213e,stroke-width:2px,color:#00d2ff
+    style B fill:#16213e,stroke:#1a1a2e,stroke-width:2px,color:#00d2ff
+    style C fill:#0f3460,stroke:#16213e,stroke-width:2px,color:#00d2ff
+    style D fill:#1a1a2e,stroke:#0f3460,stroke-width:2px,color:#00d2ff
+    style E fill:#16213e,stroke:#1a1a2e,stroke-width:2px,color:#00d2ff
+    style F fill:#0f3460,stroke:#16213e,stroke-width:2px,color:#00d2ff
 ```
 
 ---
 
-## 📈 Coding Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
----
 
-## 🏅 Achievements & Certifications
+
+## 📊 Core Skills
 
 <div align="center">
 
-| 🎯 Achievement | 📅 Year | 🏆 Status |
-|----------------|---------|-----------|
-| **Flutter Certified Developer** | 2024 | ✅ Completed |
-| **Google Play Store Publisher** | 2023 | ✅ Active |
-| **Firebase Expert** | 2023 | ✅ Certified |
-| **UI/UX Design Specialist** | 2022 | ✅ Completed |
-
-</div>
-
----
-
-## 📊 Skills Breakdown
-
-<div align="center">
-
-```
-Flutter Development    ████████████████████████████████████████ 95%
-Dart Programming      ███████████████████████████████████████  93%
-UI/UX Design         ████████████████████████████████████      90%
-Firebase Integration ███████████████████████████████████       87%
-API Development      ██████████████████████████████            85%
-State Management     ████████████████████████████████████      92%
-```
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/flutter.png"/>
+<br><strong>Flutter</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/dart.png"/>
+<br><strong>Dart</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/firebase.png"/>
+<br><strong>Firebase</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/figma--v1.png"/>
+<br><strong>UI/UX Design</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/api-settings.png"/>
+<br><strong>API Integration</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/database.png"/>
+<br><strong>State Management</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/test-tube.png"/>
+<br><strong>Testing</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/64/000000/rocket.png"/>
+<br><strong>App Deployment</strong>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -257,9 +266,7 @@ State Management     ███████████████████�
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Let's build something amazing together!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
-</div>
+
 
 </div>
 
