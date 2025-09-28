@@ -263,9 +263,5 @@ flowchart LR
 
 ### 🎉 Thanks for visiting my profile!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **Let's build something amazing together!** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-
-
 </div>
 
