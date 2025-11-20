@@ -11,34 +11,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```dart
-class MohamedFawzy {
-  final String name = "Mohamed Fawzy";
-  final String role = "Flutter Developer";
-  final String location = "Egypt 🇪🇬";
-  final List<String> expertise = [
-    "📱 Mobile App Development",
-    "🎨 UI/UX Design",
-    "⚡ Performance Optimization",
-    "🔗 API Integration",
-    "🚀 App Store Deployment",
-    "🧪 Testing & Quality Assurance"
-  ];
-  
-  String getMotivation() {
-    return "Transforming ideas into beautiful, functional mobile experiences 🚀";
-  }
-  
-  bool isAvailableForWork() => true;
-}
-```
-
-
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
