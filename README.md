@@ -66,8 +66,8 @@ I build AI-powered features and connect Flutter apps to AI services/APIs:
 ## 📈 GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=M-Fawzy2004&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?username=M-Fawzy2004&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?user=M-Fawzy2004&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=M-Fawzy2004&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
