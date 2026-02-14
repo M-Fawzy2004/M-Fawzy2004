@@ -91,17 +91,6 @@ REST APIs • Dio • JSON Parsing • Secure Token Handling
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=M-Fawzy2004&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Fawzy2004&theme=tokyonight&hide_border=true" height="150"/>
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
