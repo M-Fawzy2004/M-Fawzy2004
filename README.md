@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Mohamed%20Fawzy&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Flutter%20Expert&descAlignY=55&descAlign=50" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Mohamed%20Fawzy&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Flutter%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=🚀+Senior+Mobile+App+Developer;🛠️+Clean+Architecture+Advocate;📱+Flutter+%26+Dart+Specialist;⚡+State+Management+(BLoC+%2F+Riverpod)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=🚀+Mobile+App+Developer;📱+Flutter+%26+Dart+Enthusiast;💡+Passionate+About+Clean+Code;⚡+Always+Learning+%26+Building" alt="Typing SVG" />
 
 <p align="center">
-  <b>Architecting scalable, high-performance mobile applications with Flutter.</b><br>
-  I specialize in building robust apps using <b>Clean Architecture</b>, <b>SOLID Principles</b>, and advanced <b>State Management</b>.
+  <b>Building beautiful, cross-platform mobile applications with Flutter.</b><br>
+  I am a passionate developer focused on writing <b>Clean Code</b>, applying best practices, and continuously learning to deliver excellent user experiences.
 </p>
 
 </div>
