@@ -72,8 +72,8 @@ Seeing is believing! I regularly post high-quality video demonstrations of my mo
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M07amedFawzy&show_icons=true&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B&text_color=777777" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M07amedFawzy&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B&text_color=777777" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Fawzy2004&show_icons=true&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B&text_color=777777" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Fawzy2004&theme=transparent&hide_border=true&title_color=02569B&icon_color=02569B&text_color=777777" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
